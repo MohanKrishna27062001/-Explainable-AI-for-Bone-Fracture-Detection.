@@ -1,4 +1,4 @@
-# -Explainable-AI-for-Bone-Fracture-Detection.
+# Explainable-AI-for-Bone-Fracture-Detection.
 
 Explainable AI for Bone Fracture Detection
 This project presents a deep learning-based solution for automated bone fracture detection from X-ray images, enhanced with Explainable AI (XAI) techniques to interpret model predictions and improve clinical trust. The model was trained on the FracAtlas dataset using a ResNet50 architecture, and explanations were generated using Grad-CAM, SHAP, LIME, and Saliency Maps.
